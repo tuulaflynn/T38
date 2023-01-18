@@ -1,5 +1,4 @@
 .idea/
 *.pdf
 example.py
-movies.txt
-watch_next.py
+semantic_similarity.txt
